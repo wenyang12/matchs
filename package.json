@@ -1,0 +1,29 @@
+{
+  "name": "@tools/matchs",
+  "version": "1.0.0",
+  "description": "根据指定的正则表达式返回匹配结果列表",
+  "contributors": [
+    "Luoying <luoying@fxiaoke.com>"
+  ],
+  "homepage": "http://registry-npm.firstshare.cn/",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint index.js"
+  },
+  "pre-commit": [
+    "eslint"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://git.firstshare.cn/fe-tools/matchs.git"
+  },
+  "keywords": [
+    "matchs",
+    "regexp"
+  ],
+  "author": "luoying",
+  "license": "ISC",
+  "devDependencies": {
+    "pre-commit": "^1.1.3"
+  }
+}
