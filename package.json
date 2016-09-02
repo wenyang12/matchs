@@ -1,6 +1,6 @@
 {
   "name": "@tools/matchs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "根据指定的正则表达式返回匹配结果列表",
   "contributors": [
     "Luoying <luoying@fxiaoke.com>"
